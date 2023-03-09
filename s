@@ -1,0 +1,43 @@
+[33mcommit ed4d7f8e4280705f2f1e00bdbcc7985d12a9e889[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/issue#2[m[33m, [m[1;32missue#2[m[33m)[m
+Author: javier-toribio <javier.toribio@alumnos.upm.es>
+Date:   Wed Mar 8 18:18:54 2023 +0100
+
+    update home page css issue #2
+
+[33mcommit 42baadae21d2e67db3ca5cdae68099d2b81b6c72[m
+Author: Liupeng-Ji <liupeng.ji@alumnos.upm.es>
+Date:   Wed Mar 8 18:15:31 2023 +0100
+
+    uodate home page body issue #2
+
+[33mcommit e54a8779df45647ec84e64e6508e8f4711e47a93[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Liupeng-Ji <liupeng.ji@alumnos.upm.es>
+Date:   Wed Mar 8 18:03:27 2023 +0100
+
+    create home page issue #1
+
+[33mcommit bb53881ea9be9548571af56c13fa1b208cc4f286[m
+Merge: 8ec48eb 3aef750
+Author: Liupeng-Ji <liupeng.ji@alumnos.upm.es>
+Date:   Wed Mar 8 17:56:54 2023 +0100
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+    merging
+
+[33mcommit 3aef750357149a6e3af24755cb5d750a2d44e455[m
+Author: javier-toribio <javier.toribio@alumnos.upm.es>
+Date:   Wed Mar 8 17:41:03 2023 +0100
+
+    make the application executable issue #1
+
+[33mcommit 8ec48eb3faf49e0ddbec18c38f453b19252a6c22[m
+Author: Liupeng-Ji <liupeng.ji@alumnos.upm.es>
+Date:   Wed Mar 8 17:40:58 2023 +0100
+
+    add web greeting controller issue #1
+
+[33mcommit e2e64a05e0df462566dbce236a048c7c12c40fbc[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Wed Mar 8 16:11:26 2023 +0000
+
+    Initial commit
